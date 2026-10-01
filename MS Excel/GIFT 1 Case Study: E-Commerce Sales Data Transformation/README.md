@@ -10,18 +10,6 @@ E-commerce transactional data often arrives with formatting inconsistencies, mis
 
 **Goal:** Transform messy CSV exports into a trusted, analysis-ready dataset that can power dashboards, KPI tracking, and business insights.
 
----
-
-## 📁 Repository Structure
-
-```text
-├── Data/
-│   ├── Messy_List_of_Orders.csv    # Customer order headers & shipping locations
-│   ├── Messy_Order_Details.csv     # Line-item transactions, amounts, & profits
-│   └── Messy_Sales_Target.csv      # Unorganized monthly target metrics
-├── Queries/                        # Exported Power Query / M Code scripts
-└── README.md                       # Project documentation
-```
 
 ---
 
